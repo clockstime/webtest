@@ -16,7 +16,7 @@
 
 > ## 게시판 화면
 > >
-> ![001](https://github.com/nosqljava/webtest/assets/20332975/a975dc85-1b73-434a-bb80-c76ce1cd3010)
+> ![001]![image](https://github.com/clockstime/webtest/assets/121835035/c45d1196-e7df-439f-8077-80040275e6b5)
 
 > ## 설문 화면
 

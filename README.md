@@ -37,3 +37,7 @@
 ![005](https://github.com/nosqljava/webtest/assets/20332975/2c0b8cd4-50a1-49d3-b543-f3d20cdd5986)
 ![006](https://github.com/nosqljava/webtest/assets/20332975/e8ece3d9-aa52-4504-bdac-7071dc02518b)
 ![007](https://github.com/nosqljava/webtest/assets/20332975/0e537403-d992-42c5-8c2a-6cf425789b06)
+
+설명서
+
+[설명서.docx](https://github.com/clockstime/webtest/files/12614497/default.docx)
